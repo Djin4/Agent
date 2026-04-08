@@ -1,0 +1,5 @@
+{
+  "name": "StudyFlow AI",
+  "description": "An intelligent study companion that transforms PDFs into concise summaries and interactive quizzes using Gemini AI.",
+  "requestFramePermissions": []
+}
